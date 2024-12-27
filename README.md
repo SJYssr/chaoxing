@@ -17,7 +17,7 @@
 6. (可选命令行运行)`python main.py -u 手机号 -p 密码 -l 课程ID1,课程ID2,课程ID3...(可选)`
 
 ### 打包文件运行
-1. 从最新Releases中下载exe文件
+1. 从最新[Releases](https://github.com/SJYssr/chaoxing/releases/tag/V1.0.0)中下载exe文件
 2. (可选直接运行) 双击运行即可
 3. (可选配置文件运行) 下载config_template.ini文件保存为config.ini文件，修改文件内的账号密码内容, 执行 `./chaoxing.exe -c config.ini`
 4. (可选命令行运行)`./chaoxing.exe -u "手机号" -p "密码" -l 课程ID1,课程ID2,课程ID3...(可选)`
